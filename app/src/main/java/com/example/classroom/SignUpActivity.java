@@ -50,6 +50,7 @@ public class SignUpActivity extends AppCompatActivity {
                             if (task.isSuccessful()){
                                 Toast.makeText(SignUpActivity.this, "User created successfully", Toast.LENGTH_SHORT).show();
                                 startActivity(new Intent(SignUpActivity.this, MainActivity.class));
+                                finish();
                             } else {
                                 Toast.makeText(SignUpActivity.this, "User creation failed", Toast.LENGTH_SHORT).show();
                             }
