@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429382502706",
+    "project_id": "classroom-84569",
+    "storage_bucket": "classroom-84569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429382502706:android:1a5247efbd1f6a66c6ef2b",
+        "android_client_info": {
+          "package_name": "com.example.classroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6BdnfCteZQDHhq11aI-HzIY1UnUZu8jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
